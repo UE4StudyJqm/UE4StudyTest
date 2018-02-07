@@ -1,0 +1,16 @@
+#Visual Studio
+/TestCopy/TestCopy.sln
+/TestCopy/.vs
+/TestCopy/Binaries
+/TestCopy/Build
+/TestCopy/Debug
+/TestCopy/Intermediate
+/TestCopy/Saved/Autosaves
+/TestCopy/Saved/Backup
+/TestCopy/Saved/Collections
+/TestCopy/Saved/Config/CrashReportClient
+/TestCopy/Saved/Cooked
+/TestCopy/Saved/Crashes
+/TestCopy/Saved/Logs
+/TestCopy/Saved/webcache
+/TestCopy/Saved/AutoScreenshot.png
